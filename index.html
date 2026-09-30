@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Token Zone</title>
+  <meta name="description" content="A Twilight Zone-style dispatch from the world of machines that think — or seem to. Narrated in the voice of Rod Serling.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #0a0a0a;
+      --surface: #111111;
+      --surface2: #161616;
+      --border: #1e1e1e;
+      --border2: #2a2a2a;
+      --text: #f0f0f0;
+      --text2: #888;
+      --text3: #555;
+      --gold: #c9a84c;
+      --gold-dim: rgba(201, 168, 76, 0.12);
+      --radius: 12px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+      opacity: 0.025;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+      background-size: 128px 128px;
+    }
+
+    .container { max-width: 760px; margin: 0 auto; padding: 0 1.5rem; position: relative; z-index: 1; }
+
+    header { text-align: center; padding: 5rem 0 3rem; }
+    .kicker {
+      font-size: 0.7rem; letter-spacing: 0.35em; text-transform: uppercase;
+      color: var(--gold); margin-bottom: 1.25rem; font-weight: 500;
+    }
+    h1 {
+      font-family: 'Instrument Serif', Georgia, serif;
+      font-size: clamp(3rem, 8vw, 4.5rem);
+      font-weight: 400; line-height: 1.05; margin-bottom: 1.25rem;
+    }
+    h1 em { color: var(--gold); font-style: italic; }
+    .tagline {
+      font-family: 'Instrument Serif', Georgia, serif;
+      font-style: italic; font-size: 1.15rem; color: var(--text2);
+      max-width: 34rem; margin: 0 auto; line-height: 1.6;
+    }
+    .rule {
+      width: 64px; height: 1px; background: var(--gold);
+      margin: 2.5rem auto 0; opacity: 0.6;
+    }
+
+    .episodes { padding: 1rem 0 4rem; display: flex; flex-direction: column; gap: 1.25rem; }
+
+    .episode {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.75rem;
+      transition: border-color 0.2s;
+    }
+    .episode:hover { border-color: var(--border2); }
+    .episode.latest { border-color: rgba(201,168,76,0.35); }
+
+    .ep-meta { display: flex; align-items: baseline; gap: 0.75rem; margin-bottom: 0.6rem; flex-wrap: wrap; }
+    .ep-date { font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text3); }
+    .ep-duration { font-size: 0.75rem; color: var(--text3); }
+    .badge {
+      font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase;
+      color: var(--gold); border: 1px solid rgba(201,168,76,0.4);
+      border-radius: 999px; padding: 0.2rem 0.6rem;
+    }
+
+    .ep-title {
+      font-family: 'Instrument Serif', Georgia, serif;
+      font-size: 1.7rem; font-weight: 400; margin-bottom: 0.6rem; line-height: 1.2;
+    }
+    .ep-desc { color: var(--text2); font-size: 0.95rem; line-height: 1.65; margin-bottom: 1.25rem; }
+
+    audio { width: 100%; height: 40px; outline: none; }
+    audio::-webkit-media-controls-panel { background: var(--surface2); }
+    .ep-actions { margin-top: 0.9rem; }
+    .ep-actions a {
+      font-size: 0.8rem; color: var(--gold); text-decoration: none;
+      border-bottom: 1px solid rgba(201,168,76,0.35); padding-bottom: 1px;
+    }
+    .ep-actions a:hover { border-bottom-color: var(--gold); }
+
+    footer {
+      text-align: center; padding: 2.5rem 0 3.5rem;
+      color: var(--text3); font-size: 0.8rem; line-height: 1.7;
+    }
+    footer .sign { font-family: 'Instrument Serif', Georgia, serif; font-style: italic; color: var(--text2); }
+
+    @media (max-width: 560px) {
+      header { padding: 3.5rem 0 2rem; }
+      .episode { padding: 1.25rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="kicker">A nightly dispatch</div>
+      <h1>The <em>Token</em> Zone</h1>
+      <p class="tagline" id="tagline"></p>
+      <div class="rule"></div>
+    </header>
+
+    <main class="episodes" id="episodes"></main>
+
+    <footer>
+      <div class="sign">You have just been traveling&hellip; in the Token Zone.</div>
+      <div style="margin-top:0.75rem;">New episodes posted daily.</div>
+    </footer>
+  </div>
+
+  <script>
+    fetch('episodes.json')
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById('tagline').textContent = data.show.tagline;
+        document.title = data.show.title;
+        const wrap = document.getElementById('episodes');
+        data.episodes.forEach((ep, i) => {
+          const el = document.createElement('article');
+          el.className = 'episode' + (i === 0 ? ' latest' : '');
+          const d = new Date(ep.date + 'T12:00:00');
+          const dateStr = d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+          el.innerHTML =
+            '<div class="ep-meta">' +
+              (i === 0 ? '<span class="badge">Latest</span>' : '') +
+              '<span class="ep-date">' + dateStr + '</span>' +
+              '<span class="ep-duration">' + ep.duration + '</span>' +
+            '</div>' +
+            '<h2 class="ep-title">' + ep.title + '</h2>' +
+            '<p class="ep-desc">' + ep.description + '</p>' +
+            '<audio controls preload="metadata" src="' + ep.audio + '"></audio>' +
+            '<div class="ep-actions"><a href="' + ep.audio + '" download>Download MP3</a></div>';
+          wrap.appendChild(el);
+        });
+      })
+      .catch(() => {
+        document.getElementById('episodes').innerHTML =
+          '<p style="color:#888;text-align:center;">Episodes coming soon.</p>';
+      });
+  </script>
+</body>
+</html>
