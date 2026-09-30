@@ -1,1 +1,17 @@
-{"episodes":[{"audio":"audio/the-token-zone-2026-09-29.mp3","date":"2026-09-29","description":"Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots — tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.","duration":"2:32","slug":"the-token-zone-2026-09-29","title":"The Machines That Never Sleep"}],"show":{"description":"A Twilight Zone-style dispatch from the world of machines that think — or seem to. Narrated in the voice of Rod Serling.","tagline":"You have entered a place where words become numbers, numbers become thoughts, and nobody is quite certain who's doing the thinking.","title":"The Token Zone"}}
+{
+  "episodes": [
+    {
+      "audio": "the-token-zone-2026-09-29.mp3",
+      "date": "2026-09-29",
+      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots \u2014 tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
+      "duration": "2:32",
+      "slug": "the-token-zone-2026-09-29",
+      "title": "The Machines That Never Sleep"
+    }
+  ],
+  "show": {
+    "description": "A Twilight Zone-style dispatch from the world of machines that think \u2014 or seem to. Narrated in the voice of Rod Serling.",
+    "tagline": "You have entered a place where words become numbers, numbers become thoughts, and nobody is quite certain who's doing the thinking.",
+    "title": "The Token Zone"
+  }
+}
