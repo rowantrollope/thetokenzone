@@ -1,24 +1,32 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-01",
+      "title": "The $518 Billion Mirror",
+      "date": "2026-10-01",
+      "duration": "4:18",
+      "description": "Anthropic's S-1 shows $4.6B revenue, a $42B paper loss and $518B in compute promises; Nvidia sells a leash for runaway agents; OpenAI learns to design chips; Starship goes orbital with 26 V3 Starlinks; Optimus Gen 3 leaks from Tesla's own app.",
+      "audio": "the-token-zone-2026-10-01.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-09-30",
       "title": "The Morally Binding Promise",
       "date": "2026-09-30",
       "duration": "2:13",
-      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse \u2014 and promise to be good.",
+      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse — and promise to be good.",
       "audio": "the-token-zone-2026-09-30.mp3"
     },
     {
       "audio": "the-token-zone-2026-09-29.mp3",
       "date": "2026-09-29",
-      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots \u2014 tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
+      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots — tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
       "duration": "2:32",
       "slug": "the-token-zone-2026-09-29",
       "title": "The Machines That Never Sleep"
     }
   ],
   "show": {
-    "description": "A Twilight Zone-style dispatch from the world of machines that think \u2014 or seem to. Narrated in the voice of Rod Serling.",
+    "description": "A Twilight Zone-style dispatch from the world of machines that think — or seem to. Narrated in the voice of Rod Serling.",
     "tagline": "You have entered a place where words become numbers, numbers become thoughts, and nobody is quite certain who's doing the thinking.",
     "title": "The Token Zone"
   }
