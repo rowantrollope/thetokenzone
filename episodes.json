@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-04-sunday",
+      "title": "Sunday Summary: The Prophet Incorporated",
+      "date": "2026-10-04",
+      "duration": "3:10",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic's IPO filing \u2014 the lab that warned of AI's end asks the market to fund the machine that produces the warnings.",
+      "audio": "the-token-zone-2026-10-04-sunday.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-04",
       "title": "The Lecter Doctrine",
       "date": "2026-10-04",
