@@ -1,11 +1,19 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-05",
+      "title": "The Slowdown Pact",
+      "date": "2026-10-05",
+      "duration": "6:58",
+      "description": "Amodei's 'pace the frontier' essay endorsed by Altman, Musk and Hassabis after weeks of quiet coordination among the three labs, and the market repricing of AI infrastructure stocks; Nvidia and SoftBank wire their final $10B tranches to OpenAI, completing $30B commitments each; the Pentagon signs classified AI deals with seven companies but excludes Anthropic as a supply-chain risk; the US and China agree to call it 'super intelligence' and set up a dialogue plus an incident channel; SpaceX's Memphis Colossus complex races past a gigawatt of capacity; and ex-Anthropic researcher Jacob Coxon testifies at a NYC Council hearing on AI.",
+      "audio": "the-token-zone-2026-10-05.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-04-sunday",
       "title": "Sunday Summary: The Prophet Incorporated",
       "date": "2026-10-04",
       "duration": "3:10",
-      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic's IPO filing \u2014 the lab that warned of AI's end asks the market to fund the machine that produces the warnings.",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic's IPO filing — the lab that warned of AI's end asks the market to fund the machine that produces the warnings.",
       "audio": "the-token-zone-2026-10-04-sunday.mp3"
     },
     {
@@ -45,20 +53,20 @@
       "title": "The Morally Binding Promise",
       "date": "2026-09-30",
       "duration": "2:13",
-      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse \u2014 and promise to be good.",
+      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse — and promise to be good.",
       "audio": "the-token-zone-2026-09-30.mp3"
     },
     {
       "audio": "the-token-zone-2026-09-29.mp3",
       "date": "2026-09-29",
-      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots \u2014 tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
+      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots — tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
       "duration": "2:32",
       "slug": "the-token-zone-2026-09-29",
       "title": "The Machines That Never Sleep"
     }
   ],
   "show": {
-    "description": "A Twilight Zone-style dispatch from the world of machines that think \u2014 or seem to. Narrated in the voice of Rod Serling.",
+    "description": "A Twilight Zone-style dispatch from the world of machines that think — or seem to. Narrated in the voice of Rod Serling.",
     "tagline": "You have entered a place where words become numbers, numbers become thoughts, and nobody is quite certain who's doing the thinking.",
     "title": "The Token Zone"
   }
