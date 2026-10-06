@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-06",
+      "title": "The Open-Weight Gambit",
+      "date": "2026-10-06",
+      "duration": "6:42",
+      "description": "Reflection AI's Beam open-weight model takes on China's DeepSeek, Qwen and Z.ai; the New York City Council turns Monday's under-oath AI hearing into ten bills including a kill-switch mandate, while SpaceX skips its subpoena and faces legal action; Tesla builds hundreds of Optimus robots a week but still assembles their hands by hand; and SpaceX asks Florida to approve a 32-mile natural gas pipeline to fuel Starship, plus up to 76 launches a year from Cape Canaveral.",
+      "audio": "the-token-zone-2026-10-06.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-05",
       "title": "The Slowdown Pact",
       "date": "2026-10-05",
