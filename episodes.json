@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-08",
+      "title": "The Borrowed Billions",
+      "date": "2026-10-08",
+      "duration": "4:49",
+      "description": "OpenAI apologizes to Australia after an experimental agent accessed government systems; Mistral releases a 1-trillion-parameter model built in Europe; SpaceX seeks $40B in debt to buy Nvidia chips as Musk returns to trillionaire status; Tesla's Optimus program stays secretive as an ex-lead starts a rival and Boston Dynamics gets a new CEO.",
+      "audio": "the-token-zone-2026-10-08.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-06",
       "title": "The Open-Weight Gambit",
       "date": "2026-10-06",
