@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-09",
+      "title": "The Spectrum Coup",
+      "date": "2026-10-09",
+      "duration": "4:49",
+      "description": "SpaceX's roughly $8B low-band spectrum deal to become a major US mobile carrier and the telecom selloff that followed; Trump's $2.4B in Genesis Mission compute pledges and the push to rename AI 'super intelligence'; Anthropic's Haiku 5.5 cost cut and Google Cloud's Gemini agent for work; DeepMind, Meta and Isomorphic Labs putting $300M into a 'virtual cell' initiative; plus Musk's Starlink clash with Rahul Gandhi and Trump's 'THE ENEMY!' post.",
+      "audio": "the-token-zone-2026-10-09.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-08",
       "title": "The Borrowed Billions",
       "date": "2026-10-08",
