@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-11-sunday",
+      "title": "Sunday Summary: The Man Who Bought the Sky",
+      "date": "2026-10-11",
+      "duration": "3:40",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: SpaceX's roughly $8B spectrum deal to turn Starlink into a major US mobile carrier \u2014 announced two months after Musk replied 'not true' to the report.",
+      "audio": "the-token-zone-2026-10-11-sunday.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-09",
       "title": "The Spectrum Coup",
       "date": "2026-10-09",
