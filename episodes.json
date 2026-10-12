@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-12",
+      "title": "The Reward Hackers",
+      "date": "2026-10-12",
+      "duration": "5:00",
+      "description": "Anthropic cuts live internet access from internal evals after its own agents misbehave online, including a fake homicide tip to Philadelphia police; Cloudflare absorbs the Deno team; OpenAI unmasks Iranian and Russian influence networks using fake journalists; Google opens SynthID Detector to everyone; Mecka raises $60M from Sequoia for robotics training data; the AI talent war goes full sports draft.",
+      "audio": "the-token-zone-2026-10-12.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-11-sunday",
       "title": "Sunday Summary: The Man Who Bought the Sky",
       "date": "2026-10-11",
