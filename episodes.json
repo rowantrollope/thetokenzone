@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-13",
+      "title": "Parity and Pinkies",
+      "date": "2026-10-13",
+      "duration": "4:22",
+      "description": "Meta launches Muse Wonder and Wonder Full claiming frontier parity; OpenAI and Anthropic ask UK Parliament for binding AI rules while Google DeepMind and Meta prefer standards; Anthropic warns small models may soon self-replicate across insecure home devices; Nvidia's China AI chip share falls to 34% as Huawei reaches 28%; the FAA opens an environmental review of SpaceX's plan for up to 456 Starship launches a year; Boston Dynamics gives Atlas four fingers while Tesla keeps five on Optimus.",
+      "audio": "the-token-zone-2026-10-13.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-12",
       "title": "The Reward Hackers",
       "date": "2026-10-12",
