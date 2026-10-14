@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-14",
+      "title": "The Twenty Million Dollar Goodbye",
+      "date": "2026-10-14",
+      "duration": "4:31",
+      "description": "Character.AI files for Chapter 11 with Disney as lead bidder at $20M; Google opens Gemini 4 Argon to paying developers and subscribers at $2/$10 intro pricing until November 30; Shopify lets any shopper-connected agent buy across more than a billion listings with Shop Pay; Anthropic presents Q3 figures to institutional investors ahead of a possible IPO; SpaceX aims to catch the Starship ship on Flight 15 in four to six weeks; Tesla's Optimus AI5 memory cut versus Micron's 200GB claim; Linus Torvalds uses LLMs to find Linux kernel bugs dating to 2013.",
+      "audio": "the-token-zone-2026-10-14.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-13",
       "title": "Parity and Pinkies",
       "date": "2026-10-13",
