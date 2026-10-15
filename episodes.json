@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-15",
+      "title": "Eight States in Court",
+      "date": "2026-10-15",
+      "duration": "4:11",
+      "description": "Eight states sue OpenAI over ChatGPT child-safety claims; Meta releases Muse Spark Open optimized for Apple Mac Studios; Nvidia releases Nemotron 3.5 Super VL and Bolt open models; Anthropic gives METR researchers employee-level access with publish-without-approval rights; SpaceX Starship Flight 15 reported slipped to November 8 at earliest; Tesla Optimus shown running at variable speeds; Zuckerberg and Ternus exchange public praise and Jensen Huang comments on halting unsafe customers.",
+      "audio": "the-token-zone-2026-10-15.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-14",
       "title": "The Twenty Million Dollar Goodbye",
       "date": "2026-10-14",
