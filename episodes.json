@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-20",
+      "title": "No Agents Allowed",
+      "date": "2026-10-20",
+      "duration": "4:33",
+      "description": "Websites including Yelp, Delta, JPMorgan Chase and Charles Schwab block or charge AI agents, per The Verge; Anthropic commits 5% of its shares to a public benefit fund it controls, ahead of its IPO; CoreWeave shares fall about 25% in a week as its bond yields near 15% and Gartner warns 80% of neoclouds could stop operating independently by 2030; Siemens and Nvidia show AI digital-twin factory systems at Erlangen claiming up to 85% less engineering effort; Tesla tells shareholders Optimus V3 is readied for mass production with first production lines being built; Elon Musk answers Anthropic by pledging one SpaceX share to every kid in America, and Replit's CEO says it dropped Anthropic for ChatGPT, a claim a person familiar with the deal disputes.",
+      "audio": "the-token-zone-2026-10-20.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-19",
       "title": "The Borrowed Wallet",
       "date": "2026-10-19",
