@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-21",
+      "title": "The Race Before the Bell",
+      "date": "2026-10-21",
+      "duration": "5:04",
+      "description": "OpenAI races to raise about $30B at a valuation above $1.4T ahead of Anthropic's expected mid-November IPO, per Reuters; Anthropic in talks for a second $45B Nscale compute deal at the Monarch campus in West Virginia; SpaceX Q3 revenue $14.58B up 161% with $4.4B net income, its Super Intelligence segment at $7.56B passing Starlink, and Musk says the November Starship flight will try to catch both booster and ship; ByteDance, Alibaba and Tencent order more than 3 million Nvidia RTX PRO 5500 cards worth over $35B, per Reuters; Google and Meta open-source TorchTPU and DeepSeek open-sources DeepInfer; Chinese humanoid robot stocks rally after Tesla's Optimus V3 mass-production claim.",
+      "audio": "the-token-zone-2026-10-21.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-20",
       "title": "No Agents Allowed",
       "date": "2026-10-20",
