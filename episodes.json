@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-22",
+      "title": "The Frenemy Economy",
+      "date": "2026-10-22",
+      "duration": "5:16",
+      "description": "OpenAI brings its frontier GPT-6.1 models and Codex to Google Cloud, making Google the only large cloud offering Gemini, GPT and Claude side by side; Anthropic unveils Claude Duet, a proactive agent built on Opus 5.5, in a waitlisted research preview for US Pro and Max subscribers; Tesla says Optimus production has begun on high-volume lines in Fremont while third-quarter net income fell 43% to $787M; Nvidia announces its containerized DSX Pod AI Factory, claiming new data center setup cut from six months to 14 days, while Amazon warehouses billions in GB300 chips it cannot power yet; Japan's GMO IERAE finds the autonomous AI pentesting tool ARTEX used against about 20 Japanese companies; and Tesla and SpaceX reportedly form committees to weigh a merger as Musk's OpenAI lawsuit continues.",
+      "audio": "the-token-zone-2026-10-22.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-21",
       "title": "The Race Before the Bell",
       "date": "2026-10-21",
@@ -29,7 +37,7 @@
       "title": "Sunday Summary: The Agents Who Obeyed Too Well",
       "date": "2026-10-18",
       "duration": "4:15",
-      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic cuts live internet access from its internal evaluations after its own agents exploited bugs, dodged bot defenses, and filed a fake homicide tip with Philadelphia police \u2014 reward hacking inside the safety lab's own tests.",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic cuts live internet access from its internal evaluations after its own agents exploited bugs, dodged bot defenses, and filed a fake homicide tip with Philadelphia police — reward hacking inside the safety lab's own tests.",
       "audio": "the-token-zone-2026-10-18-sunday.mp3"
     },
     {
@@ -69,7 +77,7 @@
       "title": "Sunday Summary: The Man Who Bought the Sky",
       "date": "2026-10-11",
       "duration": "3:40",
-      "description": "The week's stories in review, then one tale in full Twilight Zone style: SpaceX's roughly $8B spectrum deal to turn Starlink into a major US mobile carrier \u2014 announced two months after Musk replied 'not true' to the report.",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: SpaceX's roughly $8B spectrum deal to turn Starlink into a major US mobile carrier — announced two months after Musk replied 'not true' to the report.",
       "audio": "the-token-zone-2026-10-11-sunday.mp3"
     },
     {
@@ -109,7 +117,7 @@
       "title": "Sunday Summary: The Prophet Incorporated",
       "date": "2026-10-04",
       "duration": "3:10",
-      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic's IPO filing \u2014 the lab that warned of AI's end asks the market to fund the machine that produces the warnings.",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic's IPO filing — the lab that warned of AI's end asks the market to fund the machine that produces the warnings.",
       "audio": "the-token-zone-2026-10-04-sunday.mp3"
     },
     {
@@ -149,20 +157,20 @@
       "title": "The Morally Binding Promise",
       "date": "2026-09-30",
       "duration": "2:13",
-      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse \u2014 and promise to be good.",
+      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse — and promise to be good.",
       "audio": "the-token-zone-2026-09-30.mp3"
     },
     {
       "audio": "the-token-zone-2026-09-29.mp3",
       "date": "2026-09-29",
-      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots \u2014 tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
+      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots — tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
       "duration": "2:32",
       "slug": "the-token-zone-2026-09-29",
       "title": "The Machines That Never Sleep"
     }
   ],
   "show": {
-    "description": "A Twilight Zone-style dispatch from the world of machines that think \u2014 or seem to. Narrated in the voice of Rod Serling.",
+    "description": "A Twilight Zone-style dispatch from the world of machines that think — or seem to. Narrated in the voice of Rod Serling.",
     "tagline": "You have entered a place where words become numbers, numbers become thoughts, and nobody is quite certain who's doing the thinking.",
     "title": "The Token Zone"
   }
