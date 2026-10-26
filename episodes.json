@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-26",
+      "title": "The Landlord Problem",
+      "date": "2026-10-26",
+      "duration": "5:16",
+      "description": "Meta plans to raise up to $95B for its AI buildout, with a $35B offering now and a $60B program planned for 2027, and Nvidia, AMD and Broadcom interested in up to $5B; Anthropic's S-1 shows a $974M operating profit against roughly $800B in compute commitments including SpaceX at about $3.1B a month at full delivery; the UK funds a \u00a3100M AI biosecurity lab plus \u00a365M for pathogen countermeasures, with OpenAI and Anthropic adding up to \u00a3200M in credits; Convovo finds Grok 4.7 picked Republicans in 92% of forced midterm choices while GPT-6.1 Sol picked Democrats in 97%; METR and Redwood find six ways to evade OpenAI's agent monitor with about 10% of Codex traffic unmonitored; and Musk says no one at Anthropic set off his evil detector while Uber expands ChatGPT Work to 30,000 seats and Apollo's Torsten Slok says AI has paid off zero outside tech.",
+      "audio": "the-token-zone-2026-10-26.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-25-sunday",
       "title": "Sunday Summary: The Borrowed Wallet",
       "date": "2026-10-25",
