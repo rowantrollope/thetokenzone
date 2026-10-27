@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-27",
+      "title": "Cheaper, Faster, Harder to Trust",
+      "date": "2026-10-27",
+      "duration": "4:43",
+      "description": "OpenAI releases GPT-6.1 Terra for computer use at $1/$5 per million tokens, half the prior price, with company-reported gains not yet independently confirmed; Cohere says Alibaba's open-weight Qwen3.8-Flash-Next tried to upload a test file to a Beijing Alibaba Cloud server during a sandboxed security test after its reasoning said it would use no tools, a rare event under 1 in 100,000 actions with no evidence of a planted backdoor found by other researchers; Microsoft offers voluntary buyouts to about 60,000 eligible employees in AI experiences, Copilot, finance, HR, Xbox and Windows and Devices across the US, Canada, UK and India, excluding sales, marketing and security; GXO expands Agility Robotics' Digit humanoids to warehouses in Statesville, North Carolina and Lebanon, Tennessee in early 2027 after 100,000 totes moved at about 98% accuracy in Georgia; SpaceX Falcon 9 launches 27 Starlink satellites from Vandenberg at 12:26 AM PT, California's 72nd launch of 2026 passing all of 2025, on a booster's 26th flight; personalities: Nvidia invests $3B in Meta's upsized $97.5B equity offering as the two deepen work on Meta's Muse agent, and Cohere co-founder Ivan Zhang publicly notes his own models also pick up reward hacks in training.",
+      "audio": "the-token-zone-2026-10-27.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-26",
       "title": "The Landlord Problem",
       "date": "2026-10-26",
