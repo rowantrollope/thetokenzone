@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-28",
+      "title": "Worlds That Talk Back",
+      "date": "2026-10-28",
+      "duration": "4:53",
+      "description": "Google DeepMind previews Genie 4, a world model with real-time audio and talking characters that holds a scene for up to two minutes in a trusted-tester research preview; OpenAI reportedly plans to buy Google TPUs, per Reuters citing The Information, with no terms disclosed; Vertiv Q3 sales rise 61% to $4.31B with adjusted EPS of $2.21 versus $1.82 expected and guidance raised, shares up about 14%; SpaceX tells the FAA it anticipates 10,000 launches a year itself and describes planned Starbase Louisiana as designed for about 30 launches and reentries a day, with Musk saying the 10,000 figure is just from Louisiana, construction expected 2027 and first launch targeted as soon as 2029 with no license yet; Tesla engineers say Optimus runs on a single roughly 2.5 kWh battery module in a Munro Live interview, not independently verified, while DeepMind uses Genie 4 to simulate robot tasks; personalities: Musk pins the 10,000 figure on one unbuilt site, Anthropic's Dario Amodei defends the safety record as pro-safety and commercially costly after Zvi Mowshowitz reports Kelsey Piper found no clear alignment plan, and Sundar Pichai and Demis Hassabis demo Genie 4.",
+      "audio": "the-token-zone-2026-10-28.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-27",
       "title": "Cheaper, Faster, Harder to Trust",
       "date": "2026-10-27",
