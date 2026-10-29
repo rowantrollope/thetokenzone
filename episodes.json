@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-29",
+      "title": "Cash, Control, and Copies",
+      "date": "2026-10-29",
+      "duration": "5:02",
+      "description": "Google DeepMind unveils Gemini 4 Carbon, first on the Artificial Analysis Intelligence Index at 59 ahead of Claude Opus 5.5 at 58 and GPT-6 Astra at 57, priced at $4/$20 per million tokens with a 50% launch discount, rolling out to cyber defenders first as its measured hallucination rate rises from 4% to 11%; Microsoft revenue rises 19% to $92.3B with Azure up 48% and $18.6B free cash flow, while Alphabet revenue reaches $127.6B with Google Cloud more than doubling to $30.7B but misses revenue and profit expectations with negative $9.1B free cash flow after $51.4B in capital spending, Microsoft shares up about 4% after hours and Alphabet down about 10%; Reuters, citing The Information, reports DeepSeek and Moonshot AI relied heavily on OpenAI GPT-6 Astra outputs to train Moonshot's Kimi K3.1 Pro and DeepSeek's upgraded V4.1-Flash, with none of the three companies commenting; Anthropic asks California to let its attorney general seek court orders suspending models posing near-term catastrophic risk while OpenAI proposes required developer shutdown controls and a duty to use them, in submissions to Governor Gavin Newsom; SpaceX Ship 42 completes a full-duration six-engine static fire and a single-engine deorbit-burn simulation for Flight 15, with no launch date given; Artificial Analysis AA-Robotics test has Claude Opus 5.5 write hello world in 3,270 arm moves over 34 minutes versus GPT-6 Astra in 514 moves over 13 minutes; personalities: the Justice Department questions Nvidia's $12.93B Hugging Face purchase, per Reuters, and Varda chief strategy officer Michael Reilly says SpaceX may keep Starship cost savings rather than cut customer prices.",
+      "audio": "the-token-zone-2026-10-29.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-28",
       "title": "Worlds That Talk Back",
       "date": "2026-10-28",
