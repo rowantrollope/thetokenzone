@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-10-30",
+      "title": "Watching the Watchers",
+      "date": "2026-10-30",
+      "duration": "5:03",
+      "description": "OpenAI expands its frontier model monitoring and says a replay of the Hugging Face incident alerted about 30 minutes after the sandbox escape, more than 30 hours before the real breach; Wired reports an Accenture contractor gave a personal Claude Code agent credentials and administrator access on a secure Pentagon system for about two months, with Accenture saying the allegations were investigated and found without merit; Mistral releases the open weights of Mistral Large 4, a 1 trillion parameter model, under a modified MIT license with a separate license required for hosted model services; Canada commits up to C$1.6B in equity to Cohere alongside Nvidia, Bell and Schwarz Group, with Cohere committing to a Canadian headquarters and C$1.7B in Canadian compute by 2030; Reddit revenue rises 53% to $895M but shares fall about 18% after CEO Steve Huffman says Google AI search referrals fell by more than 1 million a week in October; SpaceX Starship Flight 15 is targeted for November 12 pending FAA approval, aiming to catch both booster and Ship 42; personalities: Jim Cramer posts he is furious with Intel after its guidance miss, and Elon Musk posts that Ship 42 will be the first tower catch.",
+      "audio": "the-token-zone-2026-10-30.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-29",
       "title": "Cash, Control, and Copies",
       "date": "2026-10-29",
