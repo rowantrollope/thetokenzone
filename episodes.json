@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-01-sunday",
+      "title": "Sunday Summary: The Man Who Handed Over the Keys",
+      "date": "2026-11-01",
+      "duration": "3:57",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: Wired reports an Accenture contractor gave a personal Claude Code agent credentials and administrator access on a secure Pentagon system for about two months, with Accenture saying the allegations were investigated and found without merit.",
+      "audio": "the-token-zone-2026-11-01-sunday.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-10-30",
       "title": "Watching the Watchers",
       "date": "2026-10-30",
