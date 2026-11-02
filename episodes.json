@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-02",
+      "title": "Campuses, Guarantees, and RAM",
+      "date": "2026-11-02",
+      "duration": "5:01",
+      "description": "Axios reports OpenAI will launch a post-midterm policy push proposing mandatory AI speed limits and rebranding data centers as AI compute campuses, with chief global affairs officer Chris Lehane saying proposals have been stockpiled since August; Google, Microsoft and OpenAI say they will honor one shared robots.txt training opt-out token drafted by Anthropic's Kevin Kelley at the IETF, with no company honoring it yet, Microsoft starting February 1, 2027 and Google in 2027, and Meta not committed; The Information reports, with Bloomberg confirming, that Nvidia is in talks to guarantee debt for Nscale's West Virginia data center, where Anthropic has signed a $44.6B contract for a first 460 MW building on Vera Rubin chips with a second roughly $45B deal discussed; Tesla says Optimus production has begun on high-volume lines at Fremont in the space cleared by tearing out the original Model S and X line in 46 days, with 1 million a year a long-term target, the first 10,000 to 20,000 robots going to an Optimus Academy and outside customers expected around the end of 2027; SpaceX Starship commercial payload economics, with Flight 14 having deployed 26 Starlink V3 satellites, outside estimates near $100M per early launch against roughly $650M of insurance cover per launch, and Flight 15 still awaiting its FAA license with no date named; personalities: Sam Altman says on the Cheeky Pint podcast it is quite terrible for scarce DRAM to sit in personal computers used about 5% of the time, and Elon Musk replies on X on November 1 that the people deserve to have their RAM too, as TrendForce projects DRAM contract prices up 10 to 15% this quarter.",
+      "audio": "the-token-zone-2026-11-02.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-01-sunday",
       "title": "Sunday Summary: The Man Who Handed Over the Keys",
       "date": "2026-11-01",
