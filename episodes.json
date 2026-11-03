@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-03",
+      "title": "Self-Improvement, Lasers, and a Locked Toolbox",
+      "date": "2026-11-03",
+      "duration": "5:15",
+      "description": "Anthropic's amended S-1/A filed November 2 adds risk language saying it has already used AI to develop models whose capability leaps it did not recognize at the time, and that internal estimates for future models indicate it may imminently meet its Responsible Scaling Policy definition of dramatically accelerated progress attributable to AI, with no current model designated over that threshold; the Financial Times reports Nvidia has verbally told cloud and data center partners that at least 51% of their services must go to non-Chinese companies under future contracts, with existing contracts untouched and Nvidia neither confirming nor denying the report; Marvell agrees to buy Lumentum in an all-stock deal with a $115B enterprise value, at 4.5 Marvell shares per Lumentum share and about a 24% premium, expected to close in the first half of 2028, with Marvell shares down about 13% on November 2; SpaceX expects a six-week Florida Falcon 9 gap after the October 20 launch, with the next Florida launch scheduled November 29, VP Launch Kiko Dontchev saying the Kennedy Space Center Starship complex is effectively complete, and a Florida Starship debut expected next year with no date named; Agility Robotics shareholders approve the Churchill Capital XI merger valuing Agility at $2.5B with about $465M in expected gross capital, Nasdaq trading as AGLT expected November 5, and GXO expanding Digit humanoid deployments to North Carolina and Tennessee in early 2027 after more than 100,000 totes moved at its Georgia warehouse; personalities: Bloomberg reports Goldman Sachs restricted Claude Code and GitHub Copilot to its roughly 12,000 engineers in October, removing access from traders and bankers months after CIO Marco Argenti praised vibe coding by non-technical staff, while Goldman is a lead underwriter on Anthropic's IPO.",
+      "audio": "the-token-zone-2026-11-03.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-02",
       "title": "Of Speed Limits and Other People's RAM",
       "date": "2026-11-02",
