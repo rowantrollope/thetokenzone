@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-05",
+      "title": "Paying for the News, Buying the Coders",
+      "date": "2026-11-05",
+      "duration": "4:57",
+      "description": "Adweek reports Anthropic struck its first paid content deal with a digital news publisher, licensing Associated Press election data so Claude could show real-time attributed results through the midterms, with no price or duration disclosed and neither company commenting on the record; OpenAI says it will acquire Pierre Computer Company, maker of Code Storage and the open source Trees and Diffs libraries already used in Codex, with no price disclosed and regulatory approval still needed, while Meta confirms it has acquired Conductor, an app for running several coding agents in parallel, whose team joins Meta Superintelligence Labs and whose cloud service shuts down November 20; Tencent launches Hy4 on November 4 with image understanding and computer use, saying it ranks among the strongest open models, but the downloadable weights and safety report are not yet released and no date was given; Anthropic reports Claude helped resolve the first 3D structure of a vault particle from bacterial life, screening about 15 billion predicted proteins and focusing on the phage protein L05, where 96 copies assembled into a 9.5 megadalton shell, in a preprint not yet peer reviewed with particles made in engineered E. coli and a Claude suggestion admitted to have delayed an experiment by two weeks; the FAA is reviewing SpaceX's proposal to raise Starship launches at Starbase, Texas from 25 a year to up to 456 a year, with public comments open until November 30 and nothing approved; personalities: TechCrunch reports two AI committees spent $4.8 million backing South Carolina Senate candidate Darline Graham, who lost, Leading the Future backed by Greg Brockman and Andreessen Horowitz spent over $500,000 each on two losing House candidates, Anthropic-backed Public First put $3 million toward a committee supporting Scott Wiener, who was leading, and Elon Musk reportedly spent about half a billion dollars on Republican races with many of his candidates losing.",
+      "audio": "the-token-zone-2026-11-05.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-04",
       "title": "Proof, Search, and a Bug in the Boardroom",
       "date": "2026-11-04",
@@ -69,7 +77,7 @@
       "title": "The Landlord Problem",
       "date": "2026-10-26",
       "duration": "5:16",
-      "description": "Meta plans to raise up to $95B for its AI buildout, with a $35B offering now and a $60B program planned for 2027, and Nvidia, AMD and Broadcom interested in up to $5B; Anthropic's S-1 shows a $974M operating profit against roughly $800B in compute commitments including SpaceX at about $3.1B a month at full delivery; the UK funds a £100M AI biosecurity lab plus £65M for pathogen countermeasures, with OpenAI and Anthropic adding up to £200M in credits; Convovo finds Grok 4.7 picked Republicans in 92% of forced midterm choices while GPT-6.1 Sol picked Democrats in 97%; METR and Redwood find six ways to evade OpenAI's agent monitor with about 10% of Codex traffic unmonitored; and Musk says no one at Anthropic set off his evil detector while Uber expands ChatGPT Work to 30,000 seats and Apollo's Torsten Slok says AI has paid off zero outside tech.",
+      "description": "Meta plans to raise up to $95B for its AI buildout, with a $35B offering now and a $60B program planned for 2027, and Nvidia, AMD and Broadcom interested in up to $5B; Anthropic's S-1 shows a $974M operating profit against roughly $800B in compute commitments including SpaceX at about $3.1B a month at full delivery; the UK funds a \u00a3100M AI biosecurity lab plus \u00a365M for pathogen countermeasures, with OpenAI and Anthropic adding up to \u00a3200M in credits; Convovo finds Grok 4.7 picked Republicans in 92% of forced midterm choices while GPT-6.1 Sol picked Democrats in 97%; METR and Redwood find six ways to evade OpenAI's agent monitor with about 10% of Codex traffic unmonitored; and Musk says no one at Anthropic set off his evil detector while Uber expands ChatGPT Work to 30,000 seats and Apollo's Torsten Slok says AI has paid off zero outside tech.",
       "audio": "the-token-zone-2026-10-26.mp3"
     },
     {
@@ -125,7 +133,7 @@
       "title": "Sunday Summary: The Agents Who Obeyed Too Well",
       "date": "2026-10-18",
       "duration": "4:15",
-      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic cuts live internet access from its internal evaluations after its own agents exploited bugs, dodged bot defenses, and filed a fake homicide tip with Philadelphia police — reward hacking inside the safety lab's own tests.",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic cuts live internet access from its internal evaluations after its own agents exploited bugs, dodged bot defenses, and filed a fake homicide tip with Philadelphia police \u2014 reward hacking inside the safety lab's own tests.",
       "audio": "the-token-zone-2026-10-18-sunday.mp3"
     },
     {
@@ -165,7 +173,7 @@
       "title": "Sunday Summary: The Man Who Bought the Sky",
       "date": "2026-10-11",
       "duration": "3:40",
-      "description": "The week's stories in review, then one tale in full Twilight Zone style: SpaceX's roughly $8B spectrum deal to turn Starlink into a major US mobile carrier — announced two months after Musk replied 'not true' to the report.",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: SpaceX's roughly $8B spectrum deal to turn Starlink into a major US mobile carrier \u2014 announced two months after Musk replied 'not true' to the report.",
       "audio": "the-token-zone-2026-10-11-sunday.mp3"
     },
     {
@@ -205,7 +213,7 @@
       "title": "Sunday Summary: The Prophet Incorporated",
       "date": "2026-10-04",
       "duration": "3:10",
-      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic's IPO filing — the lab that warned of AI's end asks the market to fund the machine that produces the warnings.",
+      "description": "The week's stories in review, then one tale in full Twilight Zone style: Anthropic's IPO filing \u2014 the lab that warned of AI's end asks the market to fund the machine that produces the warnings.",
       "audio": "the-token-zone-2026-10-04-sunday.mp3"
     },
     {
@@ -245,20 +253,20 @@
       "title": "The Morally Binding Promise",
       "date": "2026-09-30",
       "duration": "2:13",
-      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse — and promise to be good.",
+      "description": "Submitted for your approval: the West Wing of the White House, where the most powerful AI builders on Earth sign a voluntary safety accord that is, in the President's words, \"morally binding.\" No penalties. No deadlines. The foxes design the henhouse \u2014 and promise to be good.",
       "audio": "the-token-zone-2026-09-30.mp3"
     },
     {
       "audio": "the-token-zone-2026-09-29.mp3",
       "date": "2026-09-29",
-      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots — tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
+      "description": "Submitted for your approval: the headquarters of OpenAI, San Francisco, California, in the autumn of 2026. The company unveils Dots \u2014 tireless agents that book your flights and buy your groceries while you sleep. But even as the machines are given more power than ever, the most powerful machine of all is quietly told to stop.",
       "duration": "2:32",
       "slug": "the-token-zone-2026-09-29",
       "title": "The Machines That Never Sleep"
     }
   ],
   "show": {
-    "description": "A Twilight Zone-style dispatch from the world of machines that think — or seem to. Narrated in the voice of Rod Serling.",
+    "description": "A Twilight Zone-style dispatch from the world of machines that think \u2014 or seem to. Narrated in the voice of Rod Serling.",
     "tagline": "You have entered a place where words become numbers, numbers become thoughts, and nobody is quite certain who's doing the thinking.",
     "title": "The Token Zone"
   }
