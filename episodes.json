@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-08-sunday",
+      "title": "Sunday Summary: Pressing the Accelerator",
+      "date": "2026-11-08",
+      "duration": "4:31",
+      "description": "Week in review: OpenAI's proposed AI speed limits and GPT-6 Cyber exploits, Nvidia's reported non-Chinese customer rule and Nscale debt guarantee, Marvell buying Lumentum for $115 billion, a hidden recorder at OpenAI, ChatGPT search claims, Menlo's $176.8 billion enterprise AI spending estimate, Anthropic's Associated Press deal, OpenAI buying Pierre and Meta acquiring Conductor, SpaceX seeking up to 456 Starship launches a year, Thursday's $2.5 trillion Nasdaq selloff, Google's $17 billion Wyoming data center, and Agility Robotics' Nasdaq listing; spotlight: Anthropic's amended filing saying AI may imminently accelerate its own progress, and METR's November 5 review estimating Anthropic is improving at about 1.9 times its pre-October 2025 pace, mostly from AI helping the research, while saying Anthropic's public safety report understated how close it sits to its own 2x threshold and redacted the most informative evidence.",
+      "audio": "the-token-zone-2026-11-08-sunday.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-06",
       "title": "Exploits, Acceleration, and a Very Expensive Thursday",
       "date": "2026-11-06",
