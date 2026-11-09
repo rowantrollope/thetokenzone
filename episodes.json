@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-09",
+      "title": "Generators, Secrets, and a Double Catch",
+      "date": "2026-11-09",
+      "duration": "5:23",
+      "description": "The Financial Times reports Anthropic committed about $3.4 billion in late September to take over OnePWR Solutions' orders for 1.7 gigawatts of Caterpillar gas-fired generators, which the FT called the largest known single purchase of power-generation equipment by an AI lab, with Anthropic and OnePWR not commenting, Reuters unable to verify the report, and Piper Sandler listing a matching $3.4 billion sale to an unnamed frontier AI lab in September; Nvidia's board announces an independent investigation on November 8 after reporting that CEO Jensen Huang was the target of a foreign intelligence effort, with the New York Times reporting his personal relationship with Megaspeed executive Alice Huang, whose company bought more than $4.8 billion of Nvidia chips since June 2024, and a 2025 classified memo warning she had been recruited by China's intelligence service, while the board says it has no reason to believe national security or Nvidia secrets were compromised, ahead of Nvidia's November 17 results and a requested November 18 closed-door House briefing; Anthropic publishes its November 6 research post on the components of agent memory, centred on offline dreaming that reviews logs and corrects notes, where scaling dreaming from 2 to 128 sessions lifted graded performance from 13% to 48% on a roughly 350,000-file test corpus, and multi-agent writes to a shared memory table lost 28% of facts while a single owner quoting sources verbatim preserved all 57; Reuters reports OpenAI closed an $11 billion first tranche at a reported $1.25 trillion valuation, with SoftBank and MGX participating, against an original target of up to $30 billion and a $1.5 trillion valuation first sought; SpaceX announces on November 7 an official Flight 15 target of Friday November 13, window opening 4:45 PM Central from Starbase pending regulatory approval, with Ship 42 deploying 26 Starlink V3 satellites over about 14 orbits and more than 22 hours before a first attempt to catch both the Super Heavy booster and the Ship; CNBC reports Amazon has assembled a home robotics team in a new Personal Robotics Group built around Fauna Robotics, hiring for a 'new-to-world' robot with no product, form or tasks announced; personalities: the FT reports Roelof Botha joined SpaceX's board in June without first telling Sequoia Capital, and Bloomberg's Mark Gurman reports Apple CEO John Ternus pressed Craig Federighi behind closed doors to move faster on AI while Siri AI lead Mike Rockwell continues to consider stepping down.",
+      "audio": "the-token-zone-2026-11-09.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-08-sunday",
       "title": "Sunday Summary: Pressing the Accelerator",
       "date": "2026-11-08",
