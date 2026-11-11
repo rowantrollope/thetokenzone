@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-10",
+      "title": "One Model, Two Doors, and a Corrected Price Tag",
+      "date": "2026-11-10",
+      "duration": "5:24",
+      "description": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 on November 9, the same underlying model with Fable open to all users and Mythos limited to verified security and biomedical organisations, output up to 30% faster, prices down 20% to $8 per million input tokens and $40 per million output, and Fable first on the Artificial Analysis Intelligence Index at 65, while Anthropic says it held the capabilities most likely to accelerate AI research at about Opus level; Anthropic files amended IPO terms on November 10 and launches its roadshow, offering 825 million shares at $70 to $78 to raise up to about $64 billion plus a $26 billion private placement to seven partners including Google, Nvidia and TSMC, one day after Reuters reported its outside counsel emailed banks a version showing about 867 million shares at $70 to $80 and then said the pricing details were inaccurate; Google introduces TPU 8tx with hardware confidential computing and TPU 8i Max with two chips in one package for long context, making four eighth-generation TPU systems in one year, with no price or availability date and nearly 100 outside TPU customers; Meta launches Muse Ember at $0.10 per million input tokens and $0.50 per million output for prompts up to 200,000 tokens, built for repetitive agent work; Nvidia unveils GR00T 2 at the Conference on Robot Learning in Austin, trained on more than 400,000 hours of first-person human video, completing 40 of 50 test tasks at least once with no task-specific demonstrations and averaging 95% with five demonstrations on tasks Nvidia's paper notes were selected from ones the model could learn well, with Foxconn, Siemens and Nexuni testing it; SpaceX rolls Super Heavy Booster 22 to Pad 2 at Starbase on November 10 for final catch testing ahead of Flight 15, still targeted for Friday November 13 pending FAA approval, with catches of both the booster and Ship 42 planned; personalities: TSMC's board approves up to $500 million in Anthropic shares at the IPO price and up to $500 million in OpenAI preferred stock.",
+      "audio": "the-token-zone-2026-11-10.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-09",
       "title": "Generators, Secrets, and a Double Catch",
       "date": "2026-11-09",
