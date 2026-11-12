@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-12",
+      "title": "A Boardroom Decides, a Genome Narrows, and the Robots Go Open",
+      "date": "2026-11-12",
+      "duration": "5:38",
+      "description": "The Wall Street Journal reports Nvidia's board is preparing to remove CEO Jensen Huang after 33 years, Reuters reports directors met late on November 11 to decide his future and the New York Times reports a second alleged affair, with shares down about 8 percent after hours, no decision announced by November 12 morning and Bloomberg reporting a search for possible successors; Bloomberg reports Anthropic's IPO is multiple times oversubscribed with demand at least twice the shares available, seeking up to about $90 billion including a private placement at a valuation near $1.4 trillion with pricing set for November 18, and Anthropic launches Claude Sheets, Claude Whiteboards and a preview of Claude Meetings as workplace software while Microsoft shares fall more than 3.5 percent; Google DeepMind introduces AlphaGenome 2, predicting how DNA changes affect specific cell types from more than 107 million cell profiles, for noncommercial research only and not approved for diagnosis, and Google releases Gemini Decision 1, answering up to 1,000 yes or no questions per request with confidence scores from $0.10 per million input tokens; London and Bristol chip startup Fractile raises $720 million at a $7 billion valuation led by Thrive Capital, Founders Fund, Lightspeed and Redpoint with the UK Sovereign AI fund, for memory-stacked inference chips, with no production chip shipped yet and first chips planned for 2027; United Airlines rewrites its contract of carriage on November 11 to ban unauthorised AI agents from making, changing or servicing tickets, while agents may still show flights and fares; Runway releases its Praxis-1 robot model open weights under Apache 2.0, a 27 billion parameter video-trained model reporting about 46 percent success on RoboLab; SpaceX prepares Starship Flight 15 for Friday November 13 with a window opening 4:45 p.m. Central Time pending regulatory approval, with Ship 42 to deploy 26 Starlink V3 satellites, complete about 14 orbits over more than 22 hours and attempt a tower catch if healthy; personalities: Federal Reserve Governor Michelle Bowman warns AI-related debt is on track to pass $800 billion this year and stock prices could face a large correction if AI returns fall short, and Bloomberg reports ByteDance co-founder Zhang Yiming told employees matching leading American labs could take until 2029 or 2030.",
+      "audio": "the-token-zone-2026-11-12.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-10",
       "title": "One Model, Two Doors, and a Corrected Price Tag",
       "date": "2026-11-10",
