@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-13",
+      "title": "The Founder Leaves, the Lawyers Arrive, and the Rocket Waits",
+      "date": "2026-11-13",
+      "duration": "6:06",
+      "description": "Nvidia announces Jensen Huang resigned as president, CEO and board member on November 12 after 33 years, with CFO Colette Kress as interim CEO, Harvey Jones as first board chair, shares down more than 13 percent intraday before closing down about 4 percent, and earnings due November 17; four nonprofits, the Irreplaceable Education Fund, Public Citizen, Heat Initiative and Alliance for Secure AI, sue Anthropic, Google, Meta, OpenAI and SpaceX's AI division in San Francisco Superior Court seeking an order barring systems more capable than their best on November 12, under California's Unfair Competition Law, led by Matthew Platkin, with no ruling yet; Google releases Gemini 4 Hydrogen on November 12 for coding and agents at $1.50 per million input tokens and $7.50 per million output, scoring 51 on the Artificial Analysis Intelligence Index at default and 54 at xhigh; Anthropic opens a private beta of self-hosted Claude Managed Agents, and Bloomberg reports its IPO orders at about six times the shares available with pricing expected November 18 and trading November 19 under ticker ANT; OpenAI launches Daybreak Red Team in early access and Defense Factory for patch preparation at its Cyber at the Frontier event, with no pricing; SpaceX plans more than $74 billion in AI supercomputing campuses, over $24 billion at Starbase, Texas and roughly $50 billion in Cochise County, Arizona, with local decisions December 9, and Starship Flight 15 is set for November 13 with Booster 22 and Ship 42 attempting catches; J.P. Morgan, via Reuters, forecasts US humanoid production of 300,000 to 400,000 units a year by 2030 and about 1.5 million by 2035, with most makers other than Tesla targeting 10,000 to 30,000 a year",
+      "audio": "the-token-zone-2026-11-13.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-12",
       "title": "A Boardroom Decides, a Genome Narrows, and the Robots Go Open",
       "date": "2026-11-12",
