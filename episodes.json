@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-15-sunday",
+      "title": "Sunday Summary: The Empty Chair",
+      "date": "2026-11-15",
+      "duration": "4:19",
+      "description": "Week in review: Anthropic's reported $3.4 billion deal for 1.7 gigawatts of Caterpillar generators, Anthropic's Claude Fable and Mythos 5.2 release and IPO roadshow, Google's TPU 8 systems, AlphaGenome 2 and Gemini 4 Hydrogen, Meta's Muse Ember, United Airlines banning unauthorised AI agents from booking, Runway's open Praxis-1 robot model, a lawsuit by four nonprofits seeking to freeze AI at its November 12 level, OpenAI's Daybreak security agents, SpaceX's planned $74 billion-plus in AI campuses, and J.P. Morgan's humanoid forecast; spotlight: Nvidia co-founder Jensen Huang \u2014 board investigation announced November 8 after New York Times reporting on his relationship with Megaspeed executive Alice Huang, board reported preparing his removal on November 12, then his resignation announced November 13 effective November 12 after 33 years, with CFO Colette Kress as interim CEO, Harvey Jones as first board chair, shares down more than 13 percent intraday before closing down about 4 percent, and earnings due November 17 with no successor named",
+      "audio": "the-token-zone-2026-11-15-sunday.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-13",
       "title": "The Founder Leaves, the Lawyers Arrive, and the Rocket Waits",
       "date": "2026-11-13",
