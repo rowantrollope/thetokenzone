@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-16",
+      "title": "Chips Without Nvidia, a Ship Caught, and a Wallet for Agents",
+      "date": "2026-11-16",
+      "duration": "5:41",
+      "description": "Analyst Ming-Chi Kuo estimates OpenAI will seek about 12 million Google TPUs and Anthropic about 14 million in 2028 and 2029, extending Google TPU shipment visibility to 2029, with no company confirming the figures; Nvidia reports earnings on November 17, its first since Jensen Huang resigned, guided to $108 billion in revenue with analysts expecting about $108.7 billion, while Treasury Secretary Scott Bessent said on Sunday the board should hire an outsider as CEO, called for a dramatic shakeup and asked for export-compliance answers within 10 days; Anthropic enters its IPO pricing week with Bloomberg reporting orders close to seven times the shares on offer, pricing set for November 18 and trading expected November 19 as ANT, and banks refusing orders from mainland China and Hong Kong investors under arms-export rules; OpenAI launches ChatGPT Wallet on November 13 with American Express, Mastercard and Visa for US ChatGPT Pro subscribers, with Face ID or fingerprint approval and tokenised payments for its agents; SpaceX Starship Flight 15: Ship 42 caught by the Starbase tower on November 14 after about 22.5 hours and 14 orbits and deploying 26 Starlink satellites, the first tower catch of an upper stage returning from orbit, while Booster 22 diverted over the Gulf of Mexico and was destroyed after its return burn ended early; personalities: interim CEO Colette Kress faces Nvidia's November 17 earnings call, and a petition to reinstate Jensen Huang claimed just under 175,000 signatures by Monday morning including more than 8,700 Nvidia employees",
+      "audio": "the-token-zone-2026-11-16.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-15-sunday",
       "title": "Sunday Summary: The Empty Chair",
       "date": "2026-11-15",
