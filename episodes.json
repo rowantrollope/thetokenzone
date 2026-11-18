@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-18",
+      "title": "A Blowout Without Its Founder, and a Price War at the Top",
+      "date": "2026-11-18",
+      "duration": "5:30",
+      "description": "Nvidia reports third-quarter fiscal 2027 revenue of $115.8 billion, up 103 percent year over year, with data center revenue of $107.6 billion and adjusted earnings of $2.68 a share, and guides the current quarter to $130 billion assuming no China data center compute revenue, in its first report under interim CEO Colette Kress after Jensen Huang's resignation; OpenAI releases GPT-6.2 Astra and Sol on November 17, cutting Astra's price 20 percent to $8 per million input tokens and $40 per million output, with Artificial Analysis ranking Astra second at 62 behind Claude Fable 5.2 at 65 and measuring cost per task down 36 percent, and OpenAI's system card making Astra its first released model at the High level for AI self-improvement; Google makes Tasks in Gemini, formerly Spark, free for hundreds of millions of users in the US, Japan, Korea, Canada, Australia and India on Gemini 4 Hydrogen, with US users able to call businesses, book appointments and pay via Google Pay with checkout confirmation; Anthropic prices its IPO on the evening of November 18, marketing 825 million shares at $70 to $78 with the Wall Street Journal reporting an expected price above $80, trading to begin November 19 on Nasdaq as ANT, alongside a $26 billion private placement to seven strategic partners; Bloomberg reports SpaceX may sell about $4 billion of bonds this week as the first part of a $40 billion financing to buy Nvidia Vera Rubin chips through an Apollo-backed leasing vehicle, with CFO Bret Johnsen saying SpaceX will self-fund much of its expansion and its Starmind orbital AI satellites should fly next year; Oregon Attorney General Dan Rayfield sues OpenAI seeking at least $2.035 billion, alleging ChatGPT endangers children and misleads parents about safety, and Elon Musk posts that SpaceX assumes no future compute sales to OpenAI.",
+      "audio": "the-token-zone-2026-11-18.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-17",
       "title": "The Agents Left the Lab, and California Followed",
       "date": "2026-11-17",
