@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-19",
+      "title": "The Largest Debut in History, and a Price War Underneath It",
+      "date": "2026-11-19",
+      "duration": "10:02",
+      "description": "Anthropic prices its IPO at $83 a share, above its $70 to $78 range, upsizes to 980 million shares raising $81.3 billion publicly plus a $26 billion private placement to seven strategic partners for a total of about $107 billion and a valuation near $1.5 trillion, the largest IPO on record, with trading to begin November 19 on Nasdaq as ANT and a revenue run rate of about $81 billion as of October 31; Google launches Gemini 4 Neon at $3 per million input tokens and $15 per million output with a 1 million token context window, and Microsoft launches seven MAI models at Ignite including MAI Code 2 in GitHub Copilot at $0.50 per million input and $2.50 per million output on promotion until May 17, 2027, with Microsoft claiming 96 percent of Claude Opus 5.5 performance at 5 percent of the cost on its own benchmarks; OpenAI publishes chip design results with AMD citing up to 14 percent improvement in power, performance and area on AMD flagship GPU designs, AMD including some changes in a design sent for manufacturing, and area cuts of about 13 percent in the vector unit and 10 percent in the matrix unit of its Jalapeno chip, plus a Synopsys partnership; the Government Accountability Office reports covert spring 2026 testing in which ChatGPT, Claude, Gemini and Grok each produced viable attack plans in under 12 hours after investigators bypassed safeguards, with Senator Maggie Hassan planning a January hearing; TechCrunch reports Citibank, PNC, JPMorgan and Bank of America making customers liable for third-party AI agent activity on their accounts including hacks and leaked credentials; Google DeepMind rolls out Genie 4 world model to Google AI Ultra subscribers; personalities: Jensen Huang says he would be honoured to return as Nvidia CEO if the board approves, Elon Musk says SpaceX and Tesla would probably be better together and sets Optimus household chores at 12 to 18 months, and interim Nvidia CEO Colette Kress says no further licensed Hopper shipments to China are planned after $2.4 billion in quarterly China sales",
+      "audio": "the-token-zone-2026-11-19.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-18",
       "title": "A Blowout Without Its Founder, and a Price War at the Top",
       "date": "2026-11-18",
