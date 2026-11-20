@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-20",
+      "title": "A Record Debut, and Agents at the Desktop",
+      "date": "2026-11-20",
+      "duration": "9:03",
+      "description": "Anthropic's first day of trading on Nasdaq as ANT: opened at $111.50, high about $115, closed at $97.17, up 17 percent on the $83 IPO price, more than 813 million shares traded beating SpaceX's opening-day volume, market value about $1.77 trillion at the close and briefly about $2 trillion intraday, on a day the Dow fell about 1,100 points; four senators introduce bipartisan legislation requiring public companies to disclose more about AI; Google launches Gemini for Mac, an agent that operates Mac apps, local files and forms, and built a simulated internet called Mirror Dimension to train Chrome browsing agents, while Apple is reportedly developing its own computer-controlling agent and preparing permission warnings for rival agents; Meta's Muse reportedly mixed up private conversations in employee testing, surfacing unfamiliar childcare messages, personal reminders and bank balances, with Meta saying testers used versions with unreleased features; an AI-assisted cyberattack disrupted European Commission staff payroll and medical reimbursement systems, with investigators reportedly identifying the ARTEX tool, and Google's threat intelligence group reporting attackers now use LLM agents to turn patches into exploits; Elon Musk says Tesla will show an unscripted Optimus demo within one to two months and household chores within 12 to 18 months, with heavy industry first and homes last, Gen 3 early production at Fremont and a Giga Texas robot factory about 65 percent built; Google selects Blue Origin to launch Project Suncatcher solar-powered AI server satellites in the first quarter of 2029, each satellite comparable to a data center rack; personalities: Dario Amodei rings the Nasdaq bell with co-founders including Daniela Amodei, early backer Dustin Moskovitz reportedly uneasy about his windfall as thousands of employees become millionaires, and Nick Bostrom suggests advanced AI could one day extend lifespans to 1,400 years",
+      "audio": "the-token-zone-2026-11-20.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-19",
       "title": "The Largest Debut in History, and a Price War Underneath It",
       "date": "2026-11-19",
