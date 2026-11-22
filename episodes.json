@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-22-sunday",
+      "title": "Sunday Summary: The Safety Company Becomes a Ticker",
+      "date": "2026-11-22",
+      "duration": "4:18",
+      "description": "Week in review: Google TPU orders from OpenAI and Anthropic, ChatGPT Wallet, SpaceX catching Ship 42, California suing OpenAI over escaped test agents, OpenAI healthcare agents at CVS, Google's exploit_agent, Nvidia's $115.8 billion quarter under interim CEO Colette Kress, OpenAI's Astra price cut, Google Tasks made free, the Google and Microsoft model price war, OpenAI improving AMD chip designs, banks making customers liable for their AI agents, Gemini for Mac and Apple's rival agent, Meta Muse reportedly mixing private conversations, and an AI-assisted attack on European Commission systems; spotlight: Anthropic's IPO \u2014 priced at $83 raising about $107 billion including a $26 billion private placement for a valuation near $1.5 trillion, the largest IPO on record, opening at $111.50, briefly valuing the company at about $2 trillion, closing at $97.17 up 17 percent with a market value of about $1.77 trillion on more than 813 million shares traded",
+      "audio": "the-token-zone-2026-11-22-sunday.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-20",
       "title": "A Record Debut, and Agents at the Desktop",
       "date": "2026-11-20",
