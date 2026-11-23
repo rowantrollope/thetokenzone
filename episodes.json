@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-23",
+      "title": "Two States Sue Grok, and a Proof Gets Certified",
+      "date": "2026-11-23",
+      "duration": "10:58",
+      "description": "Virginia and Oregon sue SpaceX Super Intelligence under consumer protection law over Grok allegedly generating child sexual abuse material and non-consensual sexual images, citing a Center for Countering Digital Hate estimate of millions of sexualized images including more than 20,000 depicting children between December 2025 and January 2026; the Lean and Mathlib communities certify Anthropic mathematician Levent Alpoge's Riemann hypothesis proof, developed with Claude over about six weeks and released as a Lean library; Amazon Threat Intelligence says autonomous agents using the Cairn framework found a path-traversal zero-day in MONAI Label, rated 9.8, and gained root access to a university server in about 11 minutes of mapping, with a fix merged October 19 but no patched release yet; OpenAI chief scientist Jakub Pachocki publishes internal log-perplexity scores, from about 0.99 for GPT-3.5 to about 0.76 for its breakthrough maths model, and proposes common limits labs would not cross near 0.68 to 0.70 until monitoring improves; Elon Musk says Tesla's AI5 computer goes to Optimus while cars remain on AI4, which he says now costs twice as much on memory prices; personalities: Musk calls Optimus the best product of all time, Anthropic closes Friday at $88.91 down about 8.5 percent, and Nvidia falls 14 percent in the Nasdaq 100's worst week since March 2020",
+      "audio": "the-token-zone-2026-11-23.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-22-sunday",
       "title": "Sunday Summary: The Safety Company Becomes a Ticker",
       "date": "2026-11-22",
