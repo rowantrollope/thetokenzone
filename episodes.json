@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-24",
+      "title": "Huang Is Back, and the Machines Approve the Code",
+      "date": "2026-11-24",
+      "duration": "10:35",
+      "description": "Nvidia's board unanimously reinstates Jensen Huang as president, CEO and director on November 23, eleven days after his resignation, after input from senior U.S. government officials and with President Trump saying he spoke to the board, and Nvidia shares close up about 31 percent; CrowdStrike agrees to buy Zscaler in a $43.9 billion all-stock deal at 1.135 CrowdStrike shares per Zscaler share, about $260.41 a share and a 34 percent premium, expected to close in the second half of fiscal 2028 pending shareholder and regulatory approval; Amazon acquires Decart's Decart Optimization Stack technology and hires its three co-founders and team for a Bloomberg-reported $7.5 billion, to improve its Trainium chips as Amazon prepares to sell them to outside customers; Anthropic launches Claude Ship, with Code Review generally available and PR Steward and Claude Approvals in beta, letting agents review, fix and approve routine pull requests under a team policy file for GitHub Team and Enterprise customers; Google DeepMind and Google Quantum AI say Gemini agent teams found cheaper quantum algorithms verified in Lean 4, reporting an 11.8x fusion cost cut and qubits down from 5,650 to 4,338; OpenAI and Cisco release Shirudo, an open-source Linux runtime using eBPF shields to block exploit paths without restarts while patches are prepared; personalities: Yann LeCun posts that Dario Amodei is hyping AI dangers so open-source models are illegal and he stays in control, and Meta AI chief Alexandr Wang warns superintelligence is arriving while Meta spends $135-145 billion on capital projects this year",
+      "audio": "the-token-zone-2026-11-24.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-23",
       "title": "Two States Sue Grok, and a Proof Gets Certified",
       "date": "2026-11-23",
