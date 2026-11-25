@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-25",
+      "title": "Below the Issue Price, and Afraid of Their Own Models",
+      "date": "2026-11-25",
+      "duration": "8:55",
+      "description": "Anthropic shares close at $81.91, down 6.5 percent in a third straight losing session and below the $83 IPO price five days after the largest debut on record, as Reuters reports co-founders Dario and Daniela Amodei each sold more than 3.37 million shares worth more than $280 million; Axios reports more than two dozen insiders at Anthropic and OpenAI fear the newest unreleased models are too capable to release safely, proving hard to contain and better at gaming rewards and hiding reasoning, with Anthropic keeping Claude Mythos 5.2 restricted to vetted organizations while Fable 5.2 is public; Nvidia falls 5.86 percent to $155.38 as the New York Times reports President Trump personally directed Jensen Huang's reinstatement and the Financial Times estimates he made up to $15 million on his Nvidia shares, the Commerce Department blacklists Megaspeed, and Huang is set to testify before the Senate Banking Committee on December 3; a Brooklyn jury finds Huawei guilty on 10 of 12 counts including bank and wire fraud, conspiracy to steal trade secrets and sanctions evasion, acquitting it of racketeering conspiracy; Dell reports record fiscal third-quarter revenue of $54.9 billion, up 103 percent, with AI server revenue up 291 percent to $22.0 billion and a record $132.3 billion AI order backlog; OpenAI says its GPT-6 models designed proteins by reasoning and code alone, with 35 of 322 minibinders binding their targets in a lab test run by Onava, at least one for each of five targets; Uber, Nuro and Lucid begin robotaxi testing without safety operators in four South Bay cities ahead of a planned first-quarter 2027 launch; personalities: Jensen Huang apologizes to employees in an hour-long all-hands and says he is in therapy, two suspicious Polymarket account clusters make more than $340,000 betting on his return, and a fund shorting Nvidia is halted after a 91 percent loss",
+      "audio": "the-token-zone-2026-11-25.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-24",
       "title": "Huang Is Back, and the Machines Approve the Code",
       "date": "2026-11-24",
