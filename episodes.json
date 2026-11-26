@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-26",
+      "title": "A Million Computers in Orbit, and Two Labs Claim the Same Proof",
+      "date": "2026-11-26",
+      "duration": "10:32",
+      "description": "The FCC conditionally authorizes SpaceX to deploy up to 1 million Starmind satellites as orbital AI data centers, withholding a disposal waiver, with heat, debris and astronomy concerns still open; Reuters reports US chip rules effective November 19 and anti-distillation safeguards from OpenAI and Anthropic are delaying Z.AI's GLM-5.5, now possibly first quarter 2027 or later, and Moonshot's Kimi K4, possibly to mid-2027, with release intervals potentially doubling from six months to a year or more; Anthropic and OpenAI each publish a claimed proof that VP and VNP differ, Anthropic saying no human has checked its AI-written proof and both awaiting independent confirmation, plus an OpenAI manuscript claiming the square matrix multiplication exponent is exactly 9/4; Phala says 152,092 requests sent through OpenRouter reached an experimental DeepSeek deployment while an attacker could read the traffic and obtained the root key of its legacy cloud key management service; Anthropic says Claude agents migrated its Messages API from Python to Rust under human review, reporting about 70 percent lower CPU per request and a 20 percent shorter median wait for the first token; Australia passes a digital duty of care bill covering AI chatbots and New York signs a five-year ban on AI chatbot toys; personalities: Dario Amodei rejects accusations he favors handing human decision-making to AI and challenges Axios reporting, and Elon Musk reshares SpaceX's rejection of about $738 million in federal broadband subsidies with the single word Starlink",
+      "audio": "the-token-zone-2026-11-26.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-25",
       "title": "Below the Issue Price, and Afraid of Their Own Models",
       "date": "2026-11-25",
