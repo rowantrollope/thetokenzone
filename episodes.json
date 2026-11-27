@@ -1,6 +1,14 @@
 {
   "episodes": [
     {
+      "slug": "the-token-zone-2026-11-27",
+      "title": "The Servers Stop at the Border, and Gmail Gets a Toll Booth",
+      "date": "2026-11-27",
+      "duration": "10:16",
+      "description": "Nvidia tells Dell and Super Micro to halt server shipments to Malaysia, Singapore, Thailand and Indonesia after a US Commerce rule effective November 19 requires licenses for advanced chips to those countries and Brazil, aimed at Chinese firms renting compute in Southeast Asian data centers, with existing data centers given until February 17, 2027 to get licenses; Google makes Workspace MCP servers and CLI generally available and requires AI agents to use them instead of direct REST APIs from February 1, 2027, with direct calls capped at Standard quotas and Scaled billing from April 1, 2027, while the public Gmail MCP server can read and draft but not send, reply or forward, which are partner-only; 42 state attorneys general plus DC ask a Delaware bankruptcy court to block Character.AI's December 1 auction of its platform including private chat histories of more than 21 million US accounts, more than 2.1 million of them minors, to sole disclosed bidder Smirks and Pangs Acquisition, incorporated November 13 and chosen as base bid November 14, with no buyer duties to honor privacy promises, allow deletion or limit resale; Google DeepMind VP of Research Koray Kavukcuoglu says AI agents now control part of the lab's compute to run experiments for the next Gemini model, with no reward on chain-of-thought so reasoning stays reviewable, while full recursive self-improvement remains distant and the compute share is undisclosed; OpenAI's Thomas Sottiaux says a launch billing error undercharged GPT-6.2 subscribers and the correction means users hit limits about 40 percent faster on Astra and 25 percent faster on Sol, with one bonus reset offered; Volvo Cars trains Hexagon Robotics AEON humanoids at its Ghent plant by imitation learning, first task placing components into two fixtures, pilot in first half of 2027 and production use targeted from mid-2027; personalities: Claude Code engineer Thariq Shihipar announces November 25 he has joined OpenAI, the third Claude Code person to cross in about a month after Cat Wu and Austin Lau, and CNBC reporting says about 5,100 of Anthropic's roughly 5,300 employees hold equity worth more than $1 million on paper with shares closing below the $83 IPO price",
+      "audio": "the-token-zone-2026-11-27.mp3"
+    },
+    {
       "slug": "the-token-zone-2026-11-26",
       "title": "A Million Computers in Orbit, and Two Labs Claim the Same Proof",
       "date": "2026-11-26",
